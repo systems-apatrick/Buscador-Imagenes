@@ -1,4 +1,6 @@
-Pagina web para buscar imagens de Pixebay
+Pagina web para buscar imagenes de Pixebay
+
+Se utiliza la API de ![PIXEBAY](https://pixabay.com/es/)
 
 ## Screenshot
 
